@@ -1,0 +1,19 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.flutter_app">
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application android:label="Baytree Centre"
+        android:icon="@drawable/baytree_logo">
+        <meta-data
+    android:name="com.google.firebase.messaging.default_notification_icon"
+    android:resource="@drawable/baytree_logo" />
+    <meta-data
+    android:name="com.google.firebase.messaging.default_notification_color"
+    android:resource="@color/colorprimary" />
+    <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channel_id"
+            android:value="high_importance_channel" />
+    </application>
+</manifest>

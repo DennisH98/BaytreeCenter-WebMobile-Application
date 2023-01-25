@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "strict": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "build",
+    "resolveJsonModule": true,
+    "jsx": "preserve"
+  },
+  "lib": ["es2015"],
+  "exclude": ["src/adminbro"]
+}

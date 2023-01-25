@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144018742408",
+    "project_id": "baytree-centre",
+    "storage_bucket": "baytree-centre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144018742408:android:de6914df25544261a5933d",
+        "android_client_info": {
+          "package_name": "com.baytreecentre.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144018742408-6shsmtjekaeod3vag6t2tlurhe9k84ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8us_OLr0sb5nNbR9avpeNGmvf8KvdzhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144018742408-6shsmtjekaeod3vag6t2tlurhe9k84ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
